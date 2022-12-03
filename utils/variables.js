@@ -144,8 +144,8 @@ const CS_3101 = [
     name: "Laqui, Jamie Rose M.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://jamie204.github.io/",
+        code: "https://github.com/Jamie204/Jamie204.github.io",
       },
     },
   },
@@ -284,8 +284,8 @@ const CS_3101 = [
     name: "Valdez, Dominic Miko G.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://dominic0115.github.io/",
+        code: "https://github.com/Dominic0115/Dominic0115.github.io",
       },
     },
   },
@@ -2645,8 +2645,8 @@ const IT_3106 = [
     name: "Antig, Emma P.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://emma16antig.github.io/emma_antig/",
+        code: "https://github.com/Emma16Antig/emma_antig",
       },
     },
   },
@@ -2726,8 +2726,8 @@ const IT_3106 = [
     name: "Casañas, Kyla E.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://kylacasanas.github.io/Casanas/",
+        code: "https://github.com/KylaCasanas/Casanas",
       },
     },
   },
@@ -2936,8 +2936,8 @@ const IT_3106 = [
     name: "Mendoza, Alexies Mae H.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://exiemae.github.io/Mendoza-Alexies/",
+        code: "https://github.com/exiemae/Mendoza-Alexies",
       },
     },
   },
@@ -3046,8 +3046,8 @@ const IT_3106 = [
     name: "Tamayo, Rachel Anne",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://racheltamayo.github.io/rachel_tamayo/",
+        code: "https://github.com/racheltamayo/rachel_tamayo",
       },
     },
   },
@@ -3056,8 +3056,8 @@ const IT_3106 = [
     name: "Verges, Patrisha F.",
     activities: {
       website: {
-        link: "",
-        code: "",
+        link: "https://20patrisha.github.io/Verges-Portfolio/",
+        code: "https://github.com/20patrisha/Verges-Portfolio",
       },
     },
   },
